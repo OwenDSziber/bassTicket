@@ -2,7 +2,7 @@
 	function OpenCon(){
 		$servername = "localhost";
 		$username = "osziber";
-		$password = "*****";
+		$password = "ods.90262150";
 		$database = "bassTicket";
 
 		// Create connection
